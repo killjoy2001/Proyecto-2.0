@@ -1,0 +1,17 @@
+﻿body {
+    font-family: Arial;
+}
+
+#img{
+    width: 200px;
+}
+
+#login {
+    width: 300px;
+    height: 250px;
+    position: relative;
+    left: 471px;
+    background-color: #83D2F3;
+    border-radius: 30px;
+    border-style: solid;
+}
